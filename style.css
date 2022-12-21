@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.sn{
+    writing-mode: horizontal-tb;
+    color: blue;
+}
+table:hover{
+    color: green;
+}
+td:hover{
+    background-color: coral;
+}
